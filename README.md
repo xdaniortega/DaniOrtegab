@@ -5,7 +5,10 @@
 
 <br />
 
+<a>
 If you've found me on GitHub, we should grab a coffee and talk tech.
+</a>
+
 **About me**
 
 - 🇪🇸 Currently living in Barcelona, Spain!
