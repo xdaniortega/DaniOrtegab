@@ -14,7 +14,7 @@ If you've found me on GitHub, we should grab a coffee and talk tech.
 
 - ❤️ I defend privacy and freedom
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&theme=dracula&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
-
 <br />
+
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&theme=dracula&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
