@@ -9,6 +9,8 @@
 If you've found me on GitHub, we should grab a coffee and talk tech.
 </a>
 
+<br />
+
 **About me**
 
 - 🇪🇸 Currently living in Barcelona, Spain!
