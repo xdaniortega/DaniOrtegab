@@ -17,6 +17,8 @@ If you've found me on GitHub, we should grab a coffee and talk tech.
 
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div style=" display: flex;">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrtegaB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrtegaB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+</div>
