@@ -19,9 +19,9 @@ If you've found me on GitHub, we should grab a coffee and talk tech.
 ## Some Stats About Me 
  <p align="center" >
     
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&dracula=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&theme=dracula&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-  [![<img align="right" width="50%"](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrtegaB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrtegaB&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
 
   </p>
 
