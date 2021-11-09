@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center">
+  <h1>Hi there, I'm Daniel! </h1>
+  <h5><i>Chancellor on brink of second bailout for banks</i></h5>
+</div>
 
-<!--
-**DaniOrtegaB/DaniOrtegab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+If you've found me on GitHub, we should grab a coffee and talk tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About me**
+
+- 🇪🇸 Currently living in Barcelona, Spain!
+
+- 👨‍💻 I do backend development but sometimes I make front so my work has a good cover, then call me Full Stack ;)
+
+- ❤️ I defend privacy and freedom
+
