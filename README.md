@@ -15,3 +15,4 @@ If you've found me on GitHub, we should grab a coffee and talk tech.
 
 - ❤️ I defend privacy and freedom
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrtegaB&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
