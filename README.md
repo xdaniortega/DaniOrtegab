@@ -13,12 +13,8 @@ If you've found me on GitHub, we should grab a coffee and talk tech.
 - 👨‍💻 I do backend development but sometimes I make front so my work has a good cover, then call me Full Stack ;)
 
 - ❤️ I defend privacy and freedom
-<br />
 
-
-## Some Stats About Me 
-    
 [<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=DaniOrtegaB&theme=dracula&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
-  [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOrtegaB&theme=dracula">](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
