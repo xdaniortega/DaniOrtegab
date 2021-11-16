@@ -11,9 +11,9 @@ If you've found me on GitHub, we should grab a coffee and talk tech.
 
 <br />
 
-## About me 
+## About me
 
-- 🇪🇸 Currently living in Barcelona, Spain!
+- 🔗 Any idea about what I do at my free time? 🔗
 
 - 👨‍💻 I do backend development but sometimes I make front so my work has a good cover, then call me Full Stack ;)
 
